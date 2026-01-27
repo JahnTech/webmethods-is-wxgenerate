@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">WxGenerate.flows</value>
+  <value name="is_public">false</value>
+  <value name="shared">Ly9lbmNvZGUgRmllbGQgVHlwZSBmcm9tIFN0cmluZwoJc3RhdGljIGludCBlbmNvZGVGaWVsZFR5
+cGUoU3RyaW5nIGZpZWxkVHlwZSl7CgkJaW50IHR5cGU7CgkJaWYgKGZpZWxkVHlwZS5lcXVhbHNJ
+Z25vcmVDYXNlKCJPQkpFQ1QiKSl7CgkJCXR5cGUgPSBOU0ZpZWxkLkZJRUxEX09CSkVDVDsKCQl9
+CgkJZWxzZSBpZiAoZmllbGRUeXBlLmVxdWFsc0lnbm9yZUNhc2UoIlJFQ09SRCIpKXsKCQkJdHlw
+ZSA9IE5TRmllbGQuRklFTERfUkVDT1JEOwoJCX0KCQllbHNlIGlmIChmaWVsZFR5cGUuZXF1YWxz
+SWdub3JlQ2FzZSgiUkVDT1JEUkVGIikpewoJCQl0eXBlID0gTlNGaWVsZC5GSUVMRF9SRUNPUkRS
+RUY7CgkJfQoJCWVsc2V7CgkJCXR5cGUgPSBOU0ZpZWxkLkZJRUxEX1NUUklORzsKCQl9CgkJcmV0
+dXJuIHR5cGU7Cgl9CgkKCS8vZW5jb2RlIGRpbWVuc3Rpb24gZnJvbSBzdHJpbmcKCXN0YXRpYyBp
+bnQgZW5jb2RlRGltZW5zaW9uKFN0cmluZyBkaW1lbnNpb24pewoJCWludCBkaW07CgkJaWYgKGRp
+bWVuc2lvbi5lcXVhbHNJZ25vcmVDYXNlKCJBUlJBWSIpKXsKCQkJZGltID0gTlNSZWNvcmQuRElN
+X0FSUkFZOwoJCX0KCQllbHNlIGlmIChkaW1lbnNpb24uZXF1YWxzSWdub3JlQ2FzZSgiVEFCTEUi
+KSl7CgkJCWRpbSA9IE5TUmVjb3JkLkRJTV9UQUJMRTsKCQl9CgkJZWxzZXsKCQkJZGltID0gTlNS
+ZWNvcmQuRElNX1NDQUxBUjsKCQl9CgkJcmV0dXJuIGRpbTsKCX0KCQoJc3RhdGljIGludCBlbmNv
+ZGVKYXZhV3JhcHBlcihTdHJpbmcgdHlwZSkgewoJCS8vZm9yIChTdHJpbmcgc3RyIDogSmF2YVdy
+YXBwZXJUeXBlLmdldE5hbWVzKCkpewoJCS8vCVN5c3RlbS5vdXQucHJpbnRsbigiamF2YSB0eXBl
+OiAiK3N0cik7CgkJLy99CgkJLy9TeXN0ZW0ub3V0LnByaW50bG4oIkphdmFXcmFwcGVyVHlwZS5n
+ZXROYW1lcygpIitKYXZhV3JhcHBlclR5cGUuZ2V0TmFtZXMoKSk7CgkJZm9yIChpbnQgaSA9IDA7
+IGkgPCBKYXZhV3JhcHBlclR5cGUuZ2V0TmFtZXMoKS5sZW5ndGg7IGkrKykgIHsKCQkJaWYgKEph
+dmFXcmFwcGVyVHlwZS5nZXROYW1lcygpW2ldLmVxdWFsc0lnbm9yZUNhc2UodHlwZSkpIHsKCQkJ
+CXJldHVybiBpOwoJCQl9CgkJfQoJCXJldHVybiAtMTsKCX0=</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.lang.ns.rsd.RESTDefinition</value>
+    <value>com.wm.lang.ns.rsd.RESTResource</value>
+    <value>com.wm.lang.flow.FlowBranch</value>
+    <value>com.wm.lang.flow.FlowElement</value>
+    <value>com.wm.lang.flow.FlowExit</value>
+    <value>com.wm.lang.flow.FlowInvoke</value>
+    <value>com.wm.lang.flow.FlowMap</value>
+    <value>com.wm.lang.flow.FlowMapCopy</value>
+    <value>com.wm.lang.flow.FlowMapSet</value>
+    <value>com.wm.lang.flow.FlowPathInfo</value>
+    <value>com.wm.lang.flow.FlowRoot</value>
+    <value>com.wm.lang.ns.NSField</value>
+    <value>com.wm.lang.ns.NSName</value>
+    <value>com.wm.lang.ns.NSNode</value>
+    <value>com.wm.lang.ns.NSRecord</value>
+    <value>com.wm.lang.ns.NSRecordUtil</value>
+    <value>com.wm.lang.ns.NSSignature</value>
+    <value>com.wm.util.JavaWrapperType</value>
+    <value>com.wm.app.b2b.server.BaseService</value>
+    <value>com.wm.app.b2b.server.FlowSvcImpl</value>
+    <value>com.wm.app.b2b.server.ServerAPI</value>
+    <value>com.wm.app.b2b.server.ServiceSetupException</value>
+    <value>com.wm.app.b2b.server.ns.Namespace</value>
+    <value>java.util.ArrayList</value>
+    <value>java.util.Map</value>
+    <value>java.util.StringTokenizer</value>
+    <value>com.wm.lang.flow.FlowSequence</value>
+    <value>com.wm.lang.flow.MapSet</value>
+    <value>com.wm.lang.ns.rsd.RESTApplicationInfo</value>
+  </array>
+</Values>
