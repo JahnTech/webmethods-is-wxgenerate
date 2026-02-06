@@ -1,0 +1,5 @@
+**/*.class
+**/java.frag
+**/*.bak
+**/*.jar
+**/*.zip

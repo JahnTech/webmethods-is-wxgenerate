@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">CgovL2VuY29kZSBGaWVsZCBUeXBlIGZyb20gU3RyaW5nCnN0YXRpYyBpbnQgZW5jb2RlRmllbGRU
+eXBlKFN0cmluZyBmaWVsZFR5cGUpewoJaWYgKGZpZWxkVHlwZSA9PSBudWxsKSB7CgkJdGhyb3cg
+bmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiQXJndW1lbnQgJ2ZpZWxkVHlwZScgbXVzdCBu
+b3QgYmUgbnVsbCIpOwoJfQoJCglzd2l0Y2ggKGZpZWxkVHlwZS50b1VwcGVyQ2FzZSgpKSB7Cglj
+YXNlICJPQkpFQ1QiOgoJCXJldHVybiBOU0ZpZWxkLkZJRUxEX09CSkVDVDsKCWNhc2UgIlJFQ09S
+RCI6CgkJcmV0dXJuIE5TRmllbGQuRklFTERfUkVDT1JEOwoJY2FzZSAiUkVDT1JEUkVGIjoKCQly
+ZXR1cm4gTlNGaWVsZC5GSUVMRF9SRUNPUkRSRUY7CglkZWZhdWx0OgoJCXJldHVybiBOU0ZpZWxk
+LkZJRUxEX1NUUklORzsKCX0KCQp9CgovLyBFbmNvZGUgZGltZW5zaW9uIGZyb20gc3RyaW5nCnN0
+YXRpYyBpbnQgZW5jb2RlRGltZW5zaW9uKFN0cmluZyBkaW1lbnNpb24pewoJaWYgKGRpbWVuc2lv
+biA9PSBudWxsKSB7CgkJdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiQXJndW1l
+bnQgJ2RpbWVuc2lvbicgbXVzdCBub3QgYmUgbnVsbCIpOwoJfQoJc3dpdGNoIChkaW1lbnNpb24u
+dG9VcHBlckNhc2UoKSkgewoJY2FzZSAiQVJSQVkiOgoJCXJldHVybiBOU1JlY29yZC5ESU1fQVJS
+QVk7CgljYXNlICJUQUJMRSI6CgkJcmV0dXJuIE5TUmVjb3JkLkRJTV9UQUJMRTsKCWRlZmF1bHQ6
+CgkJcmV0dXJuIE5TUmVjb3JkLkRJTV9TQ0FMQVI7Cgl9CgkKfQo=</value>
+  <value name="encodeutf8">true</value>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.app.b2b.server.ServerAPI</value>
+    <value>com.wm.app.b2b.server.ns.Namespace</value>
+    <value>com.wm.lang.ns.NSException</value>
+    <value>com.wm.lang.ns.NSField</value>
+    <value>com.wm.lang.ns.NSName</value>
+    <value>com.wm.lang.ns.NSRecord</value>
+    <value>com.wm.lang.ns.NSRecordUtil</value>
+    <value>com.wm.util.JavaWrapperType</value>
+  </array>
+</Values>

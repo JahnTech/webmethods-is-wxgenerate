@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">Ly9lbmNvZGUgRmllbGQgVHlwZSBmcm9tIFN0cmluZwoJc3RhdGljIGludCBlbmNvZGVGaWVsZFR5
+cGUoU3RyaW5nIGZpZWxkVHlwZSl7CgkJaW50IHR5cGU7CgkJaWYgKGZpZWxkVHlwZS5lcXVhbHNJ
+Z25vcmVDYXNlKCJPQkpFQ1QiKSl7CgkJCXR5cGUgPSBOU0ZpZWxkLkZJRUxEX09CSkVDVDsKCQl9
+CgkJZWxzZSBpZiAoZmllbGRUeXBlLmVxdWFsc0lnbm9yZUNhc2UoIlJFQ09SRCIpKXsKCQkJdHlw
+ZSA9IE5TRmllbGQuRklFTERfUkVDT1JEOwoJCX0KCQllbHNlIGlmIChmaWVsZFR5cGUuZXF1YWxz
+SWdub3JlQ2FzZSgiUkVDT1JEUkVGIikpewoJCQl0eXBlID0gTlNGaWVsZC5GSUVMRF9SRUNPUkRS
+RUY7CgkJfQoJCWVsc2V7CgkJCXR5cGUgPSBOU0ZpZWxkLkZJRUxEX1NUUklORzsKCQl9CgkJcmV0
+dXJuIHR5cGU7Cgl9CgkKCS8vZW5jb2RlIGRpbWVuc2lvbiBmcm9tIHN0cmluZwoJc3RhdGljIGlu
+dCBlbmNvZGVEaW1lbnNpb24oU3RyaW5nIGRpbWVuc2lvbil7CgkJaW50IGRpbTsKCQlpZiAoZGlt
+ZW5zaW9uLmVxdWFsc0lnbm9yZUNhc2UoIkFSUkFZIikpewoJCQlkaW0gPSBOU1JlY29yZC5ESU1f
+QVJSQVk7CgkJfQoJCWVsc2UgaWYgKGRpbWVuc2lvbi5lcXVhbHNJZ25vcmVDYXNlKCJUQUJMRSIp
+KXsKCQkJZGltID0gTlNSZWNvcmQuRElNX1RBQkxFOwoJCX0KCQllbHNlewoJCQlkaW0gPSBOU1Jl
+Y29yZC5ESU1fU0NBTEFSOwoJCX0KCQlyZXR1cm4gZGltOwoJfQoJCglzdGF0aWMgaW50IGVuY29k
+ZUphdmFXcmFwcGVyKFN0cmluZyB0eXBlKSB7CgkJLy9mb3IgKFN0cmluZyBzdHIgOiBKYXZhV3Jh
+cHBlclR5cGUuZ2V0TmFtZXMoKSl7CgkJLy8JU3lzdGVtLm91dC5wcmludGxuKCJqYXZhIHR5cGU6
+ICIrc3RyKTsKCQkvL30KCQkvL1N5c3RlbS5vdXQucHJpbnRsbigiSmF2YVdyYXBwZXJUeXBlLmdl
+dE5hbWVzKCkiK0phdmFXcmFwcGVyVHlwZS5nZXROYW1lcygpKTsKCQlmb3IgKGludCBpID0gMDsg
+aSA8IEphdmFXcmFwcGVyVHlwZS5nZXROYW1lcygpLmxlbmd0aDsgaSsrKSAgewoJCQlpZiAoSmF2
+YVdyYXBwZXJUeXBlLmdldE5hbWVzKClbaV0uZXF1YWxzSWdub3JlQ2FzZSh0eXBlKSkgewoJCQkJ
+cmV0dXJuIGk7CgkJCX0KCQl9CgkJcmV0dXJuIC0xOwoJfQoJCgkK</value>
+  <value name="encodeutf8">true</value>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.lang.ns.rsd.RESTDefinition</value>
+    <value>com.wm.lang.ns.rsd.RESTResource</value>
+    <value>com.wm.lang.flow.FlowBranch</value>
+    <value>com.wm.lang.flow.FlowElement</value>
+    <value>com.wm.lang.flow.FlowExit</value>
+    <value>com.wm.lang.flow.FlowInvoke</value>
+    <value>com.wm.lang.flow.FlowMap</value>
+    <value>com.wm.lang.flow.FlowMapCopy</value>
+    <value>com.wm.lang.flow.FlowMapSet</value>
+    <value>com.wm.lang.flow.FlowPathInfo</value>
+    <value>com.wm.lang.flow.FlowRoot</value>
+    <value>com.wm.lang.ns.NSField</value>
+    <value>com.wm.lang.ns.NSName</value>
+    <value>com.wm.lang.ns.NSNode</value>
+    <value>com.wm.lang.ns.NSRecord</value>
+    <value>com.wm.lang.ns.NSRecordUtil</value>
+    <value>com.wm.lang.ns.NSSignature</value>
+    <value>com.wm.util.JavaWrapperType</value>
+    <value>com.wm.app.b2b.server.BaseService</value>
+    <value>com.wm.app.b2b.server.FlowSvcImpl</value>
+    <value>com.wm.app.b2b.server.ServerAPI</value>
+    <value>com.wm.app.b2b.server.ServiceSetupException</value>
+    <value>com.wm.app.b2b.server.ns.Namespace</value>
+    <value>java.util.ArrayList</value>
+    <value>java.util.Map</value>
+    <value>java.util.StringTokenizer</value>
+    <value>com.wm.lang.flow.FlowSequence</value>
+    <value>com.wm.lang.flow.MapSet</value>
+    <value>com.wm.lang.ns.rsd.RESTApplicationInfo</value>
+  </array>
+</Values>

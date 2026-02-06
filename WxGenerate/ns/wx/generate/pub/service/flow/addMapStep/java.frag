@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">addMapStep</value>
+  <array name="sig" type="value" depth="1">
+    <value>[i] object:0:required parentFlowElem</value>
+    <value>[i] field:0:required srcFieldName</value>
+    <value>[i] field:0:required destFieldName</value>
+    <value>[o] object:0:required parentFlowElem</value>
+  </array>
+  <value name="sigtype">java 3.5</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUKSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJz
+b3IoKTsKdHJ5IHsKCUZsb3dFbGVtZW50CXBhcmVudEZsb3dFbGVtID0gKEZsb3dFbGVtZW50KSBJ
+RGF0YVV0aWwuZ2V0KCBwaXBlbGluZUN1cnNvciwgInBhcmVudEZsb3dFbGVtIiApOwoJU3RyaW5n
+CXNyY0ZpZWxkTmFtZSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vyc29yLCAic3Jj
+RmllbGROYW1lIiApOwoJU3RyaW5nCWRlc3RGaWVsZE5hbWUgPSBJRGF0YVV0aWwuZ2V0U3RyaW5n
+KCBwaXBlbGluZUN1cnNvciwgImRlc3RGaWVsZE5hbWUiICk7CgoJRmxvd01hcENvcHkgZm1jID0g
+bmV3IEZsb3dNYXBDb3B5KG51bGwpOwoJZm1jLnNldE1hcEZyb20oIHNyY0ZpZWxkTmFtZS5jaGFy
+QXQoMCkgPT0gJy8nID8gc3JjRmllbGROYW1lIDogIi8iK3NyY0ZpZWxkTmFtZSsiOzE7MCIpOwoJ
+aWYgKGZtYy5nZXRNYXBGcm9tKCkuc3RhcnRzV2l0aCgiL251bGwiKSkgdGhyb3cgbmV3IFNlcnZp
+Y2VFeGNlcHRpb24oIld4R2VuZXJhdGU6IG1hcCBzcmMgIitzcmNGaWVsZE5hbWUrIiBub3QgZm91
+bmQiKTsKCWZtYy5zZXRNYXBUbyggZGVzdEZpZWxkTmFtZS5jaGFyQXQoMCkgPT0gJy8nID8gZGVz
+dEZpZWxkTmFtZSA6ICIvIitkZXN0RmllbGROYW1lKyI7MTswIik7CglpZiAoZm1jLmdldE1hcFRv
+KCkuc3RhcnRzV2l0aCgiL251bGwiKSkgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oIld4R2Vu
+ZXJhdGU6IG1hcCBkZXN0ICIrZGVzdEZpZWxkTmFtZSsiIG5vdCBmb3VuZCIpOwoKCUZsb3dNYXAg
+Zm0gPSBuZXcgRmxvd01hcChudWxsKTsKCWZtLmFkZE5vZGUoZm1jKTsKCXBhcmVudEZsb3dFbGVt
+LmFkZE5vZGUoZm0pOwoKCUlEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yLCAicGFyZW50Rmxv
+d0VsZW0iLCBwYXJlbnRGbG93RWxlbSApOwp9IGZpbmFsbHkgewoJcGlwZWxpbmVDdXJzb3IuZGVz
+dHJveSgpOwp9CgkK</value>
+</Values>
