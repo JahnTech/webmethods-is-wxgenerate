@@ -4,9 +4,10 @@ Generates Flow Services and Document Types (aka docTypes) on Integration Server 
 
 ## Installation
 
-1) Copy the package WxGenerate to <<IS_root>>/instances/default/replicate/inbound
-2) In IS Admin-GUI go to Packages->Management. Click on "Install Inbound Releases", and select "WxGenerate.zip".
-3) Click "Install Release"
+- Download package archive (ZIP file) from [releases](https://github.com/JahnTech/webmethods-is-wxgenerate/releases)
+- Copy the package WxGenerate to <<IS_root>>/instances/default/replicate/inbound
+- In IS admin UI go to "Packages / Management". Click on "Install Inbound Releases", and select "WxGenerate.zip".
+- Click "Install Release"
 
 ### Working with source code
 
